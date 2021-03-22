@@ -2,9 +2,6 @@
 'use strict';
 
 
-// let yourName = prompt("what is your name?"); {
-//   console.log("Hello "+ yourName + "!!!")
-// }
 
 // let newNumber1 = (5);
 // let newNumber2 =(3);
