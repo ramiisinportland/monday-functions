@@ -1,8 +1,6 @@
 
 'use strict';
 
-
-
 // let newNumber1 = (5);
 // let newNumber2 =(3);
 // let newNumber3 =(3);
@@ -33,5 +31,9 @@ function add(number1, number2){
 const number1 = parseInt(prompt(" Enter a number: "));
 const number2 = parseInt(prompt(" Enter another number: "));
 alert(add(number1, number2));
+
+Co-authored-by: Grace Hopper <github-email@super-programmer.com>
+Co-authored-by: Ada Lovelace <other-gh-email@super-programmer.com>"
+
 
 
